@@ -2,6 +2,12 @@
 
 Gruppe: Ben Drittner, Tom Wiebers, Benjamin Riedel
 
+## Abgabe
+6.3.2024
+
+## Präsentation 
+12-13.3.2024 
+
 ## Arbeitszeiten  
 Excel Tabelle [hier](https://onedrive.live.com/view.aspx?resid=A2614B11FB896998!106&ithint=file%2cxlsx&wdo=2&authkey=!AF9_Knsi8TwGHjE) 
 
